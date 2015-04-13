@@ -1,0 +1,2 @@
+# coremodule
+Sample
